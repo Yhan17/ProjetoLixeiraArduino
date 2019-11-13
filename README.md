@@ -43,7 +43,7 @@ Garantir higiene através da automação de lixeiras com foco em ambientes hospi
 
 * **Yhan Nunes** - *Codigo* - [Yhan](https://gist.github.com/Yhan17)
 * **Eduardo Rocha** - *Hardware* - [Eduardo](https://gist.github.com/eduardo-rocha)
- **Gabriel Ferreira** - *Apresentação* -[Gabriel](https://gist.github.com/gfb-47)
+* **Gabriel Ferreira** - *Apresentação* -[Gabriel](https://gist.github.com/gfb-47)
 
 
 
